@@ -1,5 +1,5 @@
 # sample
 demo repo
 <br>
-hello everyone
+hello everyone.
 trying further changes
